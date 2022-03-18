@@ -14,5 +14,6 @@ public class BedroomInv {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         System.out.print("Hallo2");
+        System.out.print("Hallo2");
     }
 }
